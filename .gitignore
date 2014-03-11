@@ -1,3 +1,5 @@
-css/
 images/icons/
 js/
+.sass-cache/
+node_modules/
+npm-debug.log
